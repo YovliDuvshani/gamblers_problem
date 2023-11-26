@@ -1,0 +1,5 @@
+MAX_GOLD = 100
+PH = 0.4
+
+EPSILON = 0.0001
+GAMMA = 1
